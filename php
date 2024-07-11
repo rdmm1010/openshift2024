@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+print "i am ramesh\n";
 ?>
