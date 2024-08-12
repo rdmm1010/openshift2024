@@ -1,4 +1,4 @@
-<body bgcolor='blue'>
+<body bgcolor='gray'>
 
 <?php
     print "I am Ramesh\n";
